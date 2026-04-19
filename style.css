@@ -8,14 +8,13 @@ margin: 0;
 padding: 0;
 }
 h1{
-text-align: center;
 transition: all 0.3s ease;
 background-image: url(Imagenes/1109812.jpg);
 background-size: 100% 300%;
 background-repeat: no-repeat;
 background-position: right;
 padding: 50px;
-font-size: 50px;
+font-size: 40px;
 }
 h1:hover{
 color: white;
